@@ -1,7 +1,7 @@
 name: Vert Vixen Cosplay
 favicon: null
 layout_spectrum: 0.26205
-typography_spectrum: 0.15033995220437646
+typography_spectrum: 0.70405
 title: Vert VIxen
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#e55970'
   brandStrength: 0.5
   lightness: 0.5133131581824273
-  saturation: 0.5056564307305962
-  rhythmicContrast: 0.8897187081165612
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
